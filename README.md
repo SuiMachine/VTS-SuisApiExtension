@@ -1,7 +1,7 @@
 # VTS-SuisExtensions
 A BepInEx and HarmonyX based plugin designed to extend the VTubeStudio.
 
-Currently compatibile with build from **November 26, 2024** (1.30.00)
+Currently compatibile with build from **December 24, 2024** (1.30.17)
 
 See Wiki for extension information.
 
